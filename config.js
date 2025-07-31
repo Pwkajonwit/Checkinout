@@ -9,7 +9,7 @@ const APPROVED_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbxT_c4nupr
 
 //LIFF_ID
 const LIFF_ID = '2007858091-5OYw194N'; // LIFF ID Checkin
-const LIFF_ID_HISTORY = 'XXXXXXXXX'; // LIFF ID History
-const LIFF_ID_LEAVE = 'XXXXXXXXX'; // LIFF ID Leave
-const LIFF_ID_OT = 'XXXXXXXXX'; // LIFF ID Ot
-const LIFF_ID_REGISTER = 'XXXXXXXXX'; // LIFF ID Register
+const LIFF_ID_HISTORY = '2007858091-em61p9Nz'; // LIFF ID History
+const LIFF_ID_LEAVE = '2007858091-e6OGk7nD'; // LIFF ID Leave
+const LIFF_ID_OT = '2007858091-0Qw7RpAv'; // LIFF ID Ot
+const LIFF_ID_REGISTER = '2007858091-qyGM1JAV'; // LIFF ID Register
